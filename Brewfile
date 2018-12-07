@@ -3,10 +3,6 @@
 
 tap homebrew/core
 brew ansible
-#brew fontconfig
-#brew freetype
-#brew gd
-#brew gdbm
 brew go
 brew graphviz
 brew icu4c
@@ -17,8 +13,6 @@ brew libpng
 brew libtiff
 brew libtool
 brew libyaml
-#brew lua
-#brew mas
 brew mysql
 brew ncurses
 brew node
@@ -29,22 +23,20 @@ brew pcre
 brew peco
 brew pipenv
 brew pwgen
-#brew python
-#brew python@2
 brew readline
 brew sqlite
 brew terraform
-#brew tomcat@7
-#brew webp
 brew wrk
 brew xz
 brew zsh
 
 tap homebrew/cask
-#cask flux
-cask intellij-idea
-#cask mysqlworkbench
-cask visual-studio-code
+cask clipy
+cask github
+cask google-cloud-sdk
+cask iterm2
+cask keepassxc
+cask postman
 
 tap mackerelio/mackerel-agent
 brew mkr
@@ -53,12 +45,14 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Cask applications
-cask google-cloud-sdk
+cask docker
+cask google-chrome
+cask intellij-idea
 cask keepassxc
-cask postman
+cask kitematic
+cask visual-studio-code
 
 # App Store applications
-#appstore 1024640650 CotEditor (3.6.4)
 appstore 682658836 GarageBand (10.3.1)
 appstore 409183694 Keynote (8.3)
 appstore 405399194 Kindle (1.23.3)
