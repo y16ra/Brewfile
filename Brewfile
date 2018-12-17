@@ -31,12 +31,15 @@ brew xz
 brew zsh
 
 tap homebrew/cask
-cask clipy
-cask github
-cask google-cloud-sdk
-cask iterm2
+cask appcleaner
+cask cyberduck
+cask drawio
+cask google-chrome
+cask intellij-idea
+cask jetbrains-toolbox
 cask keepassxc
-cask postman
+cask kitematic
+cask tunnelblick
 
 tap mackerelio/mackerel-agent
 brew mkr
@@ -45,11 +48,14 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Cask applications
+cask clipy
 cask docker
-cask google-chrome
-cask intellij-idea
+cask github
+cask google-cloud-sdk
+cask iterm2
+cask karabiner-elements
 cask keepassxc
-cask kitematic
+cask postman
 cask visual-studio-code
 
 # App Store applications
@@ -64,7 +70,6 @@ appstore 445189367 PopClip (1.5.8)
 appstore 425955336 Skitch (2.8.2)
 appstore 803453959 Slack (3.3.3)
 appstore 425424353 The Unarchiver (4.0.0)
-appstore 582635628 Toolbox for Keynote -Templates (3.7.1)
 appstore 497799835 Xcode (10.0)
 
 # Other commands
