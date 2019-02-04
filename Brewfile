@@ -5,17 +5,23 @@ tap homebrew/core
 brew ansible
 brew awscli
 brew fontconfig
+brew freetype
 brew gd
 brew gdbm
+brew gettext
+brew glib
 brew go
 brew googler
 brew graphviz
+brew gts
 brew icu4c
+brew jasper
 brew jpeg
 brew jq
 brew kompose
 brew kubernetes-helm
 brew libev
+brew libffi
 brew libpng
 brew libtiff
 brew libtool
@@ -23,6 +29,7 @@ brew libyaml
 brew mas
 brew mysql
 brew ncurses
+brew netpbm
 brew node
 brew oniguruma
 brew openssl
@@ -46,13 +53,15 @@ tap homebrew/cask
 cask appcleaner
 cask cyberduck
 cask drawio
-cask google-chrome
-cask intellij-idea
-cask jetbrains-toolbox
-cask keepassxc
-cask postman
+cask github
+cask google-cloud-sdk
+cask iterm2
+cask karabiner-elements
+cask kitematic
 cask tunnelblick
 cask visualvm
+
+tap caskroom/versions
 
 tap mackerelio/mackerel-agent
 brew mkr
@@ -63,11 +72,12 @@ brew brew-file
 # Other Cask applications
 cask clipy
 cask docker
-cask github
-cask google-cloud-sdk
-cask iterm2
-cask karabiner-elements
-cask kitematic
+cask flux
+cask google-chrome
+cask intellij-idea
+cask jetbrains-toolbox
+cask keepassxc
+cask postman
 cask visual-studio-code
 
 # App Store applications
