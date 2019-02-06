@@ -47,6 +47,7 @@ brew terraform
 brew webp
 brew wrk
 brew xz
+brew zplug
 brew zsh
 
 tap homebrew/cask-versions
