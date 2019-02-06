@@ -49,6 +49,9 @@ brew wrk
 brew xz
 brew zsh
 
+tap homebrew/cask-versions
+cask java8
+
 tap homebrew/cask
 cask appcleaner
 cask cyberduck
@@ -56,12 +59,10 @@ cask drawio
 cask github
 cask google-cloud-sdk
 cask iterm2
-cask karabiner-elements
-cask kitematic
-cask tunnelblick
-cask visualvm
-
-tap caskroom/versions
+cask jetbrains-toolbox
+cask keepassxc
+cask postman
+cask visual-studio-code
 
 tap mackerelio/mackerel-agent
 brew mkr
@@ -75,10 +76,11 @@ cask docker
 cask flux
 cask google-chrome
 cask intellij-idea
-cask jetbrains-toolbox
-cask keepassxc
-cask postman
-cask visual-studio-code
+cask java
+cask karabiner-elements
+cask kitematic
+cask tunnelblick
+cask visualvm
 
 # App Store applications
 appstore 682658836 GarageBand (10.3.2)
