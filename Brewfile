@@ -44,6 +44,7 @@ brew skaffold
 brew sqlite
 brew telnet
 brew terraform
+brew tree
 brew webp
 brew wrk
 brew xz
