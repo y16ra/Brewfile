@@ -52,19 +52,21 @@ brew zplug
 brew zsh
 
 tap homebrew/cask-versions
-cask java8
 
 tap homebrew/cask
 cask appcleaner
-cask cyberduck
-cask drawio
-cask github
+cask clipy
+cask docker
+cask flux
+cask google-backup-and-sync
 cask google-cloud-sdk
 cask iterm2
 cask jetbrains-toolbox
 cask keepassxc
+cask kitematic
 cask postman
 cask visual-studio-code
+cask xquartz
 
 tap mackerelio/mackerel-agent
 brew mkr
@@ -73,27 +75,33 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Cask applications
-cask clipy
-cask docker
-cask flux
+cask charles
+cask cyberduck
+cask drawio
+cask github
 cask google-chrome
 cask intellij-idea
 cask java
+cask java8
 cask karabiner-elements
-cask kitematic
+cask keybase
+cask notion
 cask tunnelblick
 cask visualvm
 
 # App Store applications
-appstore 682658836 GarageBand (10.3.2)
-appstore 409183694 Keynote (8.3)
-appstore 405399194 Kindle (1.25.2)
-appstore 409203825 Numbers (5.3)
-appstore 409201541 Pages (7.3)
+appstore 682658836 GarageBand (10.3.3)
+appstore 408981434 iMovie (10.1.13)
+appstore 409183694 Keynote (9.2.1)
+appstore 405399194 Kindle (1.26.1)
+appstore 441258766 Magnet (2.4.5)
+appstore 409203825 Numbers (6.2.1)
+appstore 409201541 Pages (8.2.1)
 appstore 844918735 PicGIF Lite (2.0.8)
-appstore 407963104 Pixelmator (3.8.1)
-appstore 445189367 PopClip (1.5.8)
-appstore 425955336 Skitch (2.8.2)
-appstore 803453959 Slack (3.3.7)
+appstore 407963104 Pixelmator (3.9)
+appstore 445189367 PopClip (2019.9.1)
+appstore 1072531325 Roadmap Planner (2.9.5)
+appstore 425955336 Skitch (2.8.4)
+appstore 803453959 Slack (4.1.2)
 appstore 425424353 The Unarchiver (4.1.0)
-appstore 497799835 Xcode (10.1)
+appstore 497799835 Xcode (11.2.1)
