@@ -3,15 +3,19 @@
 
 tap homebrew/core
 brew gdbm
+brew go
+brew jq
 brew mas
 brew mpdecimal
 brew ncurses
+brew oniguruma
 brew openssl@1.1
 brew pcre
 brew python@3.9
 brew readline
 brew sqlite
 brew xz
+brew zplug
 brew zsh
 
 tap homebrew/cask-versions
