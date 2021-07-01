@@ -24,6 +24,7 @@ tap homebrew/cask-versions
 
 tap homebrew/cask
 cask appcleaner
+cask bartender
 cask charles
 cask clipy
 cask cyberduck
