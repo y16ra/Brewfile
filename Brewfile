@@ -5,10 +5,12 @@ tap homebrew/core
 brew gdbm
 brew go
 brew jq
+brew kotlin
 brew mas
 brew mpdecimal
 brew ncurses
 brew oniguruma
+brew openjdk
 brew openssl@1.1
 brew pcre
 brew python@3.9
