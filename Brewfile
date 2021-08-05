@@ -2,6 +2,7 @@
 # tap repositories and their packages
 
 tap homebrew/core
+<<<<<<< HEAD
 brew adr-tools
 brew awscli
 brew bitwarden-cli
@@ -57,11 +58,21 @@ brew ncurses
 brew netpbm
 brew nghttp2
 brew node
+=======
+brew gdbm
+brew go
+brew jq
+brew kotlin
+brew mas
+brew mpdecimal
+brew ncurses
+>>>>>>> f51d616a23a3bf6b4325d2e357853b475703b88b
 brew oniguruma
 brew openjdk
 brew openssl@1.1
 brew pango
 brew pcre
+<<<<<<< HEAD
 brew peco
 brew pipenv
 brew pixman
@@ -82,6 +93,11 @@ brew tree
 brew webp
 brew wrk
 brew xorgproto
+=======
+brew python@3.9
+brew readline
+brew sqlite
+>>>>>>> f51d616a23a3bf6b4325d2e357853b475703b88b
 brew xz
 brew zplug
 brew zsh
@@ -92,14 +108,21 @@ tap homebrew/cask-versions
 tap homebrew/cask
 cask alfred
 cask appcleaner
+<<<<<<< HEAD
 cask background-music
+=======
+cask bartender
+>>>>>>> f51d616a23a3bf6b4325d2e357853b475703b88b
 cask charles
 cask clipy
 cask cyberduck
 cask docker
 cask drawio
+<<<<<<< HEAD
 cask dynalist
 cask fliqlo
+=======
+>>>>>>> f51d616a23a3bf6b4325d2e357853b475703b88b
 cask flux
 cask github
 cask google-backup-and-sync
@@ -128,6 +151,7 @@ tap mackerelio/mackerel-agent
 tap rcmdnk/file
 brew brew-file
 
+<<<<<<< HEAD
 # Other Cask applications
 cask java
 cask java8
@@ -156,3 +180,13 @@ appstore 512617038   Snappy              (2.0.1)
 appstore 425424353   The Unarchiver      (4.3.3)
 appstore 497799835   Xcode               (12.5.1)
 appstore 457622435   Yoink               (3.5.14)
+=======
+# App Store applications
+appstore 682658836   GarageBand  (10.3.5)
+appstore 408981434   iMovie      (10.1.15)
+appstore 409183694   Keynote     (10.1)
+appstore 409203825   Numbers     (10.1)
+appstore 409201541   Pages       (10.1)
+appstore 803453959   Slack       (4.17.0)
+appstore 497799835   Xcode       (12.5.1)
+>>>>>>> f51d616a23a3bf6b4325d2e357853b475703b88b
