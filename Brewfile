@@ -68,6 +68,7 @@ brew pipenv
 brew pixman
 brew pkg-config
 brew plantuml
+brew poetry
 brew protobuf
 brew pwgen
 brew python@3.8
@@ -114,6 +115,7 @@ cask karabiner-elements
 cask keepassxc
 cask keybase
 cask kitematic
+cask ngrok
 cask notion
 cask pock
 cask postman
