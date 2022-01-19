@@ -26,7 +26,6 @@ cask github
 cask google-chrome
 cask iterm2
 cask notion
-cask popclip
 cask visual-studio-code
 
 tap rcmdnk/file
