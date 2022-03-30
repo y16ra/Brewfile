@@ -5,8 +5,11 @@ tap homebrew/core
 brew ca-certificates
 brew clang-format
 brew gdbm
+brew gettext
 brew go
 brew jq
+brew libidn2
+brew libunistring
 brew mas
 brew mpdecimal
 brew ncurses
@@ -19,6 +22,7 @@ brew pcre
 brew python@3.9
 brew readline
 brew sqlite
+brew wget
 brew xz
 brew zsh-completions
 
