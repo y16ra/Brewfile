@@ -6,6 +6,7 @@ brew ca-certificates
 brew clang-format
 brew gdbm
 brew gettext
+brew gh
 brew go
 brew jq
 brew libidn2
