@@ -20,6 +20,7 @@ brew openapi-generator
 brew openjdk
 brew openssl@1.1
 brew pcre
+brew protobuf
 brew python@3.9
 brew readline
 brew sqlite
