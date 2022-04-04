@@ -42,6 +42,7 @@ cask github
 cask google-chrome
 cask iterm2
 cask notion
+cask postman
 cask proxyman
 cask slack
 cask visual-studio-code
