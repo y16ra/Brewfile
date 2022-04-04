@@ -3,6 +3,7 @@
 
 tap homebrew/core
 brew abseil
+brew brotli
 brew c-ares
 brew ca-certificates
 brew clang-format
@@ -11,12 +12,17 @@ brew gettext
 brew gh
 brew go
 brew grpc
+brew icu4c
 brew jq
 brew libidn2
+brew libnghttp2
 brew libunistring
+brew libuv
 brew mas
 brew mpdecimal
 brew ncurses
+brew newman
+brew node
 brew nodebrew
 brew oniguruma
 brew openapi-generator
