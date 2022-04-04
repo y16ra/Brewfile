@@ -42,6 +42,8 @@ cask proxyman
 cask slack
 cask visual-studio-code
 
+tap grpc/grpc
+
 tap rcmdnk/file
 brew brew-file
 
