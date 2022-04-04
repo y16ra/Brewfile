@@ -2,12 +2,15 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew abseil
+brew c-ares
 brew ca-certificates
 brew clang-format
 brew gdbm
 brew gettext
 brew gh
 brew go
+brew grpc
 brew jq
 brew libidn2
 brew libunistring
@@ -22,6 +25,7 @@ brew openssl@1.1
 brew pcre
 brew protobuf
 brew python@3.9
+brew re2
 brew readline
 brew sqlite
 brew wget
