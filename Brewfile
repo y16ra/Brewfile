@@ -47,6 +47,7 @@ cask dropbox
 cask github
 cask google-chrome
 cask iterm2
+cask ngrok
 cask notion
 cask postman
 cask proxyman
