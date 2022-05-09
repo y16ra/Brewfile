@@ -30,6 +30,7 @@ brew openjdk
 brew openssl@1.1
 brew pcre
 brew protobuf
+brew pwgen
 brew python@3.9
 brew re2
 brew readline
