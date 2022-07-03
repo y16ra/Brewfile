@@ -48,12 +48,14 @@ cask dropbox
 cask github
 cask google-chrome
 cask iterm2
+cask keepingyouawake
 cask ngrok
 cask notion
 cask postman
 cask proxyman
 cask slack
 cask visual-studio-code
+cask zoom
 
 tap bufbuild/buf
 brew buf
@@ -62,14 +64,3 @@ tap grpc/grpc
 
 tap rcmdnk/file
 brew brew-file
-
-# App Store applications
-appstore 682658836   GarageBand          (10.4.6)
-appstore 408981434   iMovie              (10.3.2)
-appstore 409183694   Keynote             (12.0)
-appstore 1559269364  Notion Web Clipper  (1.0.3)
-appstore 409203825   Numbers             (12.0)
-appstore 409201541   Pages               (12.0)
-appstore 1289583905  Pixelmator Pro      (2.4.1)
-appstore 445189367   PopClip             (2021.11)
-appstore 457622435   Yoink               (3.6.8)
