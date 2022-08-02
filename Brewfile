@@ -47,6 +47,7 @@ cask bartender
 cask deepl
 cask devutils
 cask dropbox
+cask fig
 cask github
 cask google-chrome
 cask iterm2
