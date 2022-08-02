@@ -30,6 +30,7 @@ brew openapi-generator
 brew openjdk
 brew openssl@1.1
 brew pcre
+brew peco
 brew protobuf
 brew pwgen
 brew python@3.9
