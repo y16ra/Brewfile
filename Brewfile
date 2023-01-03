@@ -79,6 +79,7 @@ cask deepl
 cask devutils
 cask dropbox
 cask fig
+cask finch
 cask github
 cask google-chrome
 cask iterm2
