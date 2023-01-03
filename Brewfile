@@ -13,6 +13,7 @@ brew cairo
 brew capstone
 brew clang-format
 brew colima
+brew docker
 brew docutils
 brew fontconfig
 brew freetype
