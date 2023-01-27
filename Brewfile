@@ -14,6 +14,7 @@ brew capstone
 brew clang-format
 brew colima
 brew docker
+brew docker-compose
 brew docutils
 brew fontconfig
 brew freetype
@@ -68,6 +69,7 @@ brew oniguruma
 brew openapi-generator
 brew openjdk
 brew openssl@1.1
+brew openssl@3
 brew p11-kit
 brew pcre
 brew pcre2
@@ -121,10 +123,11 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
-appstore 1352778147  Bitwarden           (2022.11.0)
+appstore 1352778147  Bitwarden           (2023.1.1)
 appstore 682658836   GarageBand          (10.4.7)
 appstore 408981434   iMovie              (10.3.5)
 appstore 409183694   Keynote             (12.2.1)
+appstore 405399194   Kindle              (1.39.0)
 appstore 1559269364  Notion Web Clipper  (1.0.3)
 appstore 409203825   Numbers             (12.2.1)
 appstore 409201541   Pages               (12.2.1)
