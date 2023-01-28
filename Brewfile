@@ -113,6 +113,7 @@ cask postman
 cask proxyman
 cask slack
 cask visual-studio-code
+cask warp
 cask zoom
 
 tap bufbuild/buf
