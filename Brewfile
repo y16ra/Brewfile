@@ -12,6 +12,7 @@ brew ca-certificates
 brew cairo
 brew capstone
 brew cffi
+brew chrome-cli
 brew clang-format
 brew colima
 brew docker
