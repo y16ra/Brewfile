@@ -30,7 +30,6 @@ brew giflib
 brew glib
 brew gmp
 brew gnutls
-brew go
 brew graphite2
 brew grpc
 brew guile
