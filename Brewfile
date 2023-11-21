@@ -84,6 +84,7 @@ brew pkg-config
 brew protobuf
 brew pwgen
 brew pycparser
+brew python-setuptools
 brew python@3.10
 brew python@3.11
 brew python@3.9
@@ -104,6 +105,7 @@ brew zstd
 tap homebrew/cask
 cask alfred
 cask bartender
+cask cursor
 cask deepl
 cask devutils
 cask dropbox
@@ -131,17 +133,16 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
-appstore 1352778147 Bitwarden (2023.7.0)
+appstore 302584613 Amazon Kindle (7.0)
+appstore 1352778147 Bitwarden (2023.10.1)
 appstore 640199958 Developer (10.4.1)
-appstore 682658836 GarageBand (10.4.8)
-appstore 408981434 iMovie (10.3.8)
-appstore 409183694 Keynote (13.1)
-appstore 405399194 Kindle (1.40.1)
+appstore 682658836 GarageBand (10.4.9)
+appstore 408981434 iMovie (10.3.10)
+appstore 409183694 Keynote (13.2)
 appstore 1559269364 Notion Web Clipper (1.0.3)
-appstore 409203825 Numbers (13.1)
-appstore 409201541 Pages (13.1)
+appstore 409203825 Numbers (13.2)
+appstore 409201541 Pages (13.2)
 appstore 1444636541 Photomator (3.1.2)
-appstore 1289583905 Pixelmator Pro (3.3.13)
-appstore 445189367 PopClip (2023.7)
+appstore 1289583905 Pixelmator Pro (3.4.3)
 appstore 1477385213 Save to Pocket (1.1)
-appstore 457622435 Yoink (3.6.85)
+appstore 457622435 Yoink (3.6.89)
