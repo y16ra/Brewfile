@@ -22,6 +22,7 @@ brew docutils
 brew dtc
 brew fontconfig
 brew freetype
+brew fzf
 brew gdbm
 brew gettext
 brew gh
@@ -134,7 +135,7 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
-appstore 302584613 Amazon Kindle (7.0)
+appstore 302584613 Amazon Kindle (7.1)
 appstore 1352778147 Bitwarden (2023.12.1)
 appstore 640199958 Developer (10.4.1)
 appstore 682658836 GarageBand (10.4.10)
@@ -143,7 +144,7 @@ appstore 409183694 Keynote (13.2)
 appstore 1559269364 Notion Web Clipper (1.0.3)
 appstore 409203825 Numbers (13.2)
 appstore 409201541 Pages (13.2)
-appstore 1444636541 Photomator (3.2.2)
-appstore 1289583905 Pixelmator Pro (3.5.3)
+appstore 1444636541 Photomator (3.2.3)
+appstore 1289583905 Pixelmator Pro (3.5.6)
 appstore 1477385213 Save to Pocket (1.1)
 appstore 457622435 Yoink (3.6.89)
