@@ -70,6 +70,7 @@ brew ncurses
 brew nettle
 brew newman
 brew node
+brew nodebrew
 brew oniguruma
 brew openapi-generator
 brew openjdk
