@@ -14,7 +14,6 @@ brew chrome-cli
 brew clang-format
 brew docker
 brew docker-completion
-brew docker-compose
 brew docutils
 brew dtc
 brew fontconfig
