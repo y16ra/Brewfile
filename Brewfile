@@ -4,17 +4,14 @@
 tap homebrew/core
 brew abseil
 brew awscli
-brew bdw-gc
 brew brotli
 brew buf
 brew c-ares
 brew ca-certificates
 brew cairo
 brew capstone
-brew cffi
 brew chrome-cli
 brew clang-format
-brew colima
 brew docker
 brew docker-completion
 brew docker-compose
@@ -34,22 +31,18 @@ brew gnutls
 brew go
 brew graphite2
 brew grpc
-brew guile
 brew harfbuzz
 brew icu4c
 brew jpeg-turbo
 brew jq
-brew jsoncpp
 brew libevent
 brew libidn2
 brew libnghttp2
 brew libpng
-brew libpthread-stubs
 brew libslirp
 brew libssh
 brew libtasn1
 brew libtiff
-brew libtool
 brew libunistring
 brew libusb
 brew libuv
@@ -63,7 +56,6 @@ brew lima
 brew little-cms2
 brew lz4
 brew lzo
-brew m4
 brew mas
 brew mpdecimal
 brew ncurses
@@ -75,18 +67,14 @@ brew oniguruma
 brew openapi-generator
 brew openjdk
 brew openjdk@11
-brew openssl@1.1
 brew openssl@3
 brew p11-kit
-brew pcre
 brew pcre2
 brew peco
 brew pixman
-brew pkg-config
 brew protobuf
 brew pwgen
 brew pycparser
-brew python-setuptools
 brew python@3.10
 brew python@3.11
 brew python@3.12
@@ -94,7 +82,6 @@ brew python@3.9
 brew qemu
 brew re2
 brew readline
-brew six
 brew snappy
 brew sqlite
 brew unbound
@@ -137,16 +124,16 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
-appstore 302584613 Amazon Kindle (7.4)
-appstore 1352778147 Bitwarden (2024.2.0)
-appstore 640199958 Developer (10.5)
-appstore 682658836 GarageBand (10.4.10)
+appstore 302584613 Amazon Kindle (7.12)
+appstore 1352778147 Bitwarden (2024.3.0)
+appstore 640199958 Developer (10.6)
+appstore 682658836 GarageBand (10.4.11)
 appstore 408981434 iMovie (10.4)
-appstore 409183694 Keynote (13.2)
+appstore 409183694 Keynote (14.1)
 appstore 1559269364 Notion Web Clipper (1.0.3)
-appstore 409203825 Numbers (13.2)
-appstore 409201541 Pages (13.2)
-appstore 1444636541 Photomator (3.3.3)
-appstore 1289583905 Pixelmator Pro (3.5.7)
+appstore 409203825 Numbers (14.1)
+appstore 409201541 Pages (14.1)
+appstore 1444636541 Photomator (3.3.16)
+appstore 1289583905 Pixelmator Pro (3.6.3)
 appstore 1477385213 Save to Pocket (1.1)
-appstore 457622435 Yoink (3.6.89)
+appstore 457622435 Yoink (3.6.90)
