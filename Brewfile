@@ -3,6 +3,7 @@
 
 tap homebrew/core
 brew abseil
+brew aws-sam-cli
 brew awscli
 brew brotli
 brew buf
@@ -10,6 +11,7 @@ brew c-ares
 brew ca-certificates
 brew cairo
 brew capstone
+brew certifi
 brew cffi
 brew chrome-cli
 brew clang-format
@@ -36,7 +38,6 @@ brew go
 brew graphite2
 brew grpc
 brew harfbuzz
-brew icu4c@75
 brew isl
 brew jpeg-turbo
 brew jq
@@ -58,6 +59,7 @@ brew libxcb
 brew libxdmcp
 brew libxext
 brew libxrender
+brew libyaml
 brew lima
 brew little-cms2
 brew lz4
