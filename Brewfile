@@ -36,6 +36,7 @@ brew go
 brew graphite2
 brew grpc
 brew harfbuzz
+brew icu4c@75
 brew isl
 brew jpeg-turbo
 brew jq
