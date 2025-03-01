@@ -86,7 +86,6 @@ brew pkgconf
 brew protobuf
 brew pwgen
 brew pycparser
-brew python-packaging
 brew python@3.10
 brew python@3.11
 brew python@3.12
@@ -98,6 +97,7 @@ brew readline
 brew snappy
 brew sqlite
 brew unbound
+brew uv
 brew vde
 brew wget
 brew xorgproto
