@@ -15,6 +15,7 @@ brew certifi
 brew cffi
 brew chrome-cli
 brew clang-format
+brew colima
 brew cryptography
 brew docker
 brew docker-completion
@@ -155,7 +156,7 @@ appstore 1559269364 Notion Web Clipper (1.0.3)
 appstore 409203825 Numbers (14.2)
 appstore 409201541 Pages (14.2)
 appstore 6714467650 Perplexity (1.0.15)
-appstore 1444636541 Photomator (3.4.7)
-appstore 1289583905 Pixelmator Pro (3.6.15)
+appstore 1444636541 Photomator (3.4.8)
+appstore 1289583905 Pixelmator Pro (3.6.16)
 appstore 1477385213 Save to Pocket (1.1)
 appstore 457622435 Yoink (3.6.98)
