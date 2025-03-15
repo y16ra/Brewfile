@@ -110,7 +110,6 @@ cask alfred
 cask appcleaner
 cask bartender
 cask cursor
-cask deepl
 cask devutils
 cask dropbox
 cask fig
@@ -144,19 +143,19 @@ brew brew-file
 brew icu4c
 
 # App Store applications
-appstore 302584613 Amazon Kindle (7.25.1)
+appstore 302584613 Amazon Kindle (7.27.1)
 appstore 1352778147 Bitwarden (2024.3.0)
 appstore 640199958 Developer (10.7.1)
-appstore 682658836 GarageBand (10.4.11)
-appstore 408981434 iMovie (10.4.2)
-appstore 409183694 Keynote (14.2)
+appstore 682658836 GarageBand (10.4.12)
+appstore 408981434 iMovie (10.4.3)
+appstore 409183694 Keynote (14.3)
 appstore 1531657269 MarginNote 4 (4.1.13)
 appstore 1423522373 MarginNote 3 (3.7.29)
 appstore 1559269364 Notion Web Clipper (1.0.3)
-appstore 409203825 Numbers (14.2)
-appstore 409201541 Pages (14.2)
-appstore 6714467650 Perplexity (1.0.15)
-appstore 1444636541 Photomator (3.4.8)
-appstore 1289583905 Pixelmator Pro (3.6.16)
+appstore 409203825 Numbers (14.3)
+appstore 409201541 Pages (14.3)
+appstore 6714467650 Perplexity (1.0.17)
+appstore 1444636541 Photomator (3.4.9)
+appstore 1289583905 Pixelmator Pro (3.6.17)
 appstore 1477385213 Save to Pocket (1.1)
 appstore 457622435 Yoink (3.6.98)
