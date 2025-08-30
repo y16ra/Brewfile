@@ -17,7 +17,6 @@ brew chrome-cli
 brew clang-format
 brew colima
 brew cryptography
-brew dbus
 brew docker
 brew docker-completion
 brew docutils
@@ -65,10 +64,7 @@ brew libxau
 brew libxcb
 brew libxdmcp
 brew libxext
-brew libxfixes
-brew libxi
 brew libxrender
-brew libxtst
 brew libyaml
 brew lima
 brew little-cms2
@@ -106,6 +102,7 @@ brew snappy
 brew sqlite
 brew unbound
 brew uv
+brew uvwasi
 brew vde
 brew wget
 brew xorgproto
@@ -154,7 +151,7 @@ appstore 640199958 Developer (10.8.2)
 appstore 682658836 GarageBand (10.4.12)
 appstore 408981434 iMovie (10.4.3)
 appstore 409183694 Keynote (14.4)
-appstore 1531657269 MarginNote 4 (4.1.22)
+appstore 1531657269 MarginNote 4 (4.1.23)
 appstore 1423522373 MarginNote 3 (3.7.29)
 appstore 1559269364 Notion Web Clipper (1.0.3)
 appstore 409203825 Numbers (14.4)
@@ -163,5 +160,5 @@ appstore 6714467650 Perplexity (2.250724.0)
 appstore 1444636541 Photomator (3.4.11)
 appstore 1289583905 Pixelmator Pro (3.7)
 appstore 1477385213 Save to Pocket (1.1)
-appstore 1668083311 Whisper Transcription (12.17)
+appstore 1668083311 Whisper Transcription (12.18.1)
 appstore 457622435 Yoink (3.6.101)
