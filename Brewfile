@@ -81,6 +81,7 @@ brew node
 brew nodebrew
 brew oniguruma
 brew openapi-generator
+brew opencode
 brew openjdk
 brew openssl@3
 brew p11-kit
@@ -91,15 +92,20 @@ brew pkgconf
 brew protobuf
 brew pwgen
 brew pycparser
+brew pydantic
 brew python@3.10
 brew python@3.13
+brew python@3.14
 brew python@3.9
 brew qemu
 brew re2
 brew readline
+brew ripgrep
+brew rpds-py
 brew simdjson
 brew snappy
 brew sqlite
+brew terraform
 brew unbound
 brew uv
 brew uvwasi
@@ -135,6 +141,8 @@ cask visual-studio-code
 cask warp
 cask zoom
 
+tap anomalyco/tap
+
 tap aws/tap
 
 tap bufbuild/buf
@@ -145,20 +153,20 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
-appstore 302584613 Amazon Kindle (7.38.1)
-appstore 1352778147 Bitwarden (2024.3.0)
-appstore 640199958 Developer (10.8.2)
-appstore 682658836 GarageBand (10.4.12)
+appstore 302584613 Amazon Kindle (7.50)
+appstore 1352778147 Bitwarden (2025.12.0)
+appstore 640199958 Developer (10.8.3)
+appstore 682658836 GarageBand (10.4.13)
 appstore 408981434 iMovie (10.4.3)
 appstore 409183694 Keynote (14.4)
-appstore 1531657269 MarginNote 4 (4.1.23)
-appstore 1423522373 MarginNote 3 (3.7.29)
+appstore 1531657269 MarginNote 4 (4.2.3)
+appstore 1423522373 MarginNote 3 (3.7.31)
 appstore 1559269364 Notion Web Clipper (1.0.3)
 appstore 409203825 Numbers (14.4)
 appstore 409201541 Pages (14.4)
-appstore 6714467650 Perplexity (2.250724.0)
-appstore 1444636541 Photomator (3.4.11)
-appstore 1289583905 Pixelmator Pro (3.7)
+appstore 6714467650 Perplexity (2.251216.0)
+appstore 1444636541 Photomator (3.4.12)
+appstore 1289583905 Pixelmator Pro (3.7.1)
 appstore 1477385213 Save to Pocket (1.1)
-appstore 1668083311 Whisper Transcription (12.18.1)
-appstore 457622435 Yoink (3.6.101)
+appstore 1668083311 Whisper Transcription (13.11.1)
+appstore 457622435 Yoink (3.6.109)
