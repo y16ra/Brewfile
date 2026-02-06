@@ -136,6 +136,7 @@ cask obsidian
 cask pgadmin4
 cask postman
 cask proxyman
+cask raycast
 cask slack
 cask visual-studio-code
 cask warp
@@ -153,20 +154,22 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
-appstore 302584613 Amazon Kindle (7.50)
+appstore 302584613 Amazon Kindle (7.51)
 appstore 1352778147 Bitwarden (2025.12.0)
 appstore 640199958 Developer (10.8.3)
 appstore 682658836 GarageBand (10.4.13)
-appstore 408981434 iMovie (10.4.3)
-appstore 409183694 Keynote (14.4)
+appstore 408981434 iMovie (10.4.4)
+appstore 361285480 Keynote Creator Studio (15.1)
+appstore 409183694 Keynote (14.5)
 appstore 1531657269 MarginNote 4 (4.2.3)
 appstore 1423522373 MarginNote 3 (3.7.31)
 appstore 1559269364 Notion Web Clipper (1.0.3)
-appstore 409203825 Numbers (14.4)
-appstore 409201541 Pages (14.4)
+appstore 409203825 Numbers (14.5)
+appstore 409201541 Pages (14.5)
 appstore 6714467650 Perplexity (2.251216.0)
-appstore 1444636541 Photomator (3.4.12)
+appstore 1444636541 Photomator (3.4.13)
 appstore 1289583905 Pixelmator Pro (3.7.1)
 appstore 1477385213 Save to Pocket (1.1)
-appstore 1668083311 Whisper Transcription (13.11.1)
+appstore 1668083311 Whisper Transcription (13.12.2)
+appstore 497799835 Xcode (26.2)
 appstore 457622435 Yoink (3.6.109)
