@@ -3,6 +3,7 @@
 
 tap homebrew/core
 brew abseil
+brew ada-url
 brew aws-sam-cli
 brew awscli
 brew brotli
@@ -21,6 +22,7 @@ brew docker
 brew docker-completion
 brew docutils
 brew dtc
+brew fmt
 brew fontconfig
 brew freetype
 brew fzf
@@ -40,6 +42,7 @@ brew go
 brew graphite2
 brew grpc
 brew harfbuzz
+brew hdrhistogram_c
 brew icu4c
 brew icu4c@76
 brew isl
@@ -68,6 +71,7 @@ brew libxrender
 brew libyaml
 brew lima
 brew little-cms2
+brew llhttp
 brew lz4
 brew lzo
 brew mas
@@ -161,8 +165,8 @@ appstore 682658836 GarageBand (10.4.13)
 appstore 408981434 iMovie (10.4.4)
 appstore 361285480 Keynote Creator Studio (15.1)
 appstore 409183694 Keynote (14.5)
-appstore 1531657269 MarginNote 4 (4.2.3)
 appstore 1423522373 MarginNote 3 (3.7.31)
+appstore 1531657269 MarginNote 4 (4.2.3)
 appstore 1559269364 Notion Web Clipper (1.0.3)
 appstore 409203825 Numbers (14.5)
 appstore 409201541 Pages (14.5)
