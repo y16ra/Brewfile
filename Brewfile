@@ -124,6 +124,7 @@ tap homebrew/cask
 cask alfred
 cask appcleaner
 cask bartender
+cask copilot-cli
 cask cursor
 cask devutils
 cask dropbox
@@ -163,10 +164,10 @@ appstore 1352778147 Bitwarden (2025.12.0)
 appstore 640199958 Developer (10.8.3)
 appstore 682658836 GarageBand (10.4.13)
 appstore 408981434 iMovie (10.4.4)
-appstore 361285480 Keynote Creator Studio (15.1)
 appstore 409183694 Keynote (14.5)
+appstore 361285480 Keynote Creator Studio (15.1)
+appstore 1531657269 MarginNote 4 (4.2.5)
 appstore 1423522373 MarginNote 3 (3.7.31)
-appstore 1531657269 MarginNote 4 (4.2.3)
 appstore 1559269364 Notion Web Clipper (1.0.3)
 appstore 409203825 Numbers (14.5)
 appstore 409201541 Pages (14.5)
