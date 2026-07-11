@@ -7,7 +7,6 @@ brew ada-url
 brew aws-sam-cli
 brew awscli
 brew brotli
-brew buf
 brew c-ares
 brew ca-certificates
 brew cairo
@@ -48,7 +47,9 @@ brew icu4c@76
 brew isl
 brew jpeg-turbo
 brew jq
+brew json-c
 brew libevent
+brew libffi
 brew libidn2
 brew libmpc
 brew libnghttp2
@@ -76,8 +77,10 @@ brew lz4
 brew lzo
 brew mas
 brew mermaid-cli
+brew merve
 brew mpdecimal
 brew mpfr
+brew nbytes
 brew ncurses
 brew nettle
 brew newman
@@ -85,7 +88,6 @@ brew node
 brew nodebrew
 brew oniguruma
 brew openapi-generator
-brew opencode
 brew openjdk
 brew openssl@3
 brew p11-kit
@@ -107,13 +109,15 @@ brew readline
 brew ripgrep
 brew rpds-py
 brew simdjson
+brew simdutf
 brew snappy
 brew sqlite
-brew terraform
+brew tailscale
 brew unbound
 brew uv
 brew uvwasi
 brew vde
+brew webp
 brew wget
 brew xorgproto
 brew xz
@@ -156,25 +160,23 @@ tap bufbuild/buf
 tap grpc/grpc
 
 tap rcmdnk/file
-brew brew-file
+
+# Other Homebrew packages
+brew terraform
 
 # App Store applications
-appstore 302584613 Amazon Kindle (7.51)
-appstore 1352778147 Bitwarden (2025.12.0)
-appstore 640199958 Developer (10.8.3)
-appstore 682658836 GarageBand (10.4.13)
+appstore 302584613 Amazon Kindle (7.62)
+appstore 1352778147 Bitwarden (2026.6.1)
+appstore 640199958 Developer (11.0.2)
+appstore 682658836 GarageBand (10.4.14)
 appstore 408981434 iMovie (10.4.4)
+appstore 361285480 Keynote Creator Studio (15.3)
 appstore 409183694 Keynote (14.5)
-appstore 361285480 Keynote Creator Studio (15.1)
-appstore 1531657269 MarginNote 4 (4.2.5)
-appstore 1423522373 MarginNote 3 (3.7.31)
 appstore 1559269364 Notion Web Clipper (1.0.3)
 appstore 409203825 Numbers (14.5)
 appstore 409201541 Pages (14.5)
-appstore 6714467650 Perplexity (2.251216.0)
-appstore 1444636541 Photomator (3.4.13)
-appstore 1289583905 Pixelmator Pro (3.7.1)
-appstore 1477385213 Save to Pocket (1.1)
-appstore 1668083311 Whisper Transcription (13.12.2)
-appstore 497799835 Xcode (26.2)
-appstore 457622435 Yoink (3.6.109)
+appstore 1444636541 Photomator (3.4.14)
+appstore 1289583905 Pixelmator Pro (3.8)
+appstore 1668083311 Whisper Transcription (13.23.1)
+appstore 497799835 Xcode (26.6)
+appstore 457622435 Yoink (3.7.5)
