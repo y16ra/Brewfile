@@ -18,7 +18,6 @@ brew clang-format
 brew colima
 brew cryptography
 brew docker
-brew docker-completion
 brew docutils
 brew dtc
 brew fmt
@@ -37,11 +36,11 @@ brew glfw
 brew glib
 brew gmp
 brew gnutls
-brew go
 brew graphite2
 brew grpc
 brew harfbuzz
 brew hdrhistogram_c
+brew herdr
 brew icu4c
 brew icu4c@76
 brew isl
@@ -100,13 +99,11 @@ brew pwgen
 brew pycparser
 brew pydantic
 brew python@3.10
-brew python@3.13
 brew python@3.14
 brew python@3.9
 brew qemu
 brew re2
 brew readline
-brew ripgrep
 brew rpds-py
 brew simdjson
 brew simdutf
