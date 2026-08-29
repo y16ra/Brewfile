@@ -153,7 +153,6 @@ cask ngrok
 cask notion
 cask obsidian
 cask pgadmin4
-cask postman
 cask proxyman
 cask raycast
 cask slack
@@ -184,12 +183,12 @@ appstore 1352778147 Bitwarden (2026.8.0)
 appstore 640199958 Developer (11.0.2)
 appstore 682658836 GarageBand (10.4.14)
 appstore 408981434 iMovie (10.4.4)
-appstore 361285480 Keynote Creator Studio (15.3.1)
 appstore 409183694 Keynote (14.5)
+appstore 361285480 Keynote Creator Studio (15.3.1)
 appstore 1559269364 Notion Web Clipper (1.0.3)
 appstore 409203825 Numbers (14.5)
 appstore 409201541 Pages (14.5)
-appstore 1444636541 Photomator (3.4.14)
+appstore 1444636541 Photomator (3.4.15)
 appstore 1289583905 Pixelmator Pro (3.8)
 appstore 1668083311 Whisper Transcription (14.7.1)
 appstore 497799835 Xcode (26.6)
