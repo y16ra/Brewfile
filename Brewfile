@@ -160,8 +160,6 @@ cask visual-studio-code
 cask warp
 cask zoom
 
-tap anomalyco/tap
-
 tap aws/tap
 
 tap bufbuild/buf
