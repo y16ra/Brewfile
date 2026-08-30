@@ -152,7 +152,6 @@ cask microsoft-edge
 cask ngrok
 cask notion
 cask obsidian
-cask pgadmin4
 cask proxyman
 cask raycast
 cask slack
