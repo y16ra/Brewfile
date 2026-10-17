@@ -148,7 +148,6 @@ cask google-chrome
 cask google-cloud-sdk
 cask iterm2
 cask keepingyouawake
-cask microsoft-edge
 cask ngrok
 cask notion
 cask obsidian
@@ -156,7 +155,6 @@ cask proxyman
 cask raycast
 cask slack
 cask visual-studio-code
-cask zoom
 
 tap aws/tap
 
