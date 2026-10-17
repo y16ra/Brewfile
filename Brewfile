@@ -52,6 +52,7 @@ brew grpc
 brew harfbuzz
 brew hdrhistogram_c
 brew herdr
+brew highway
 brew icu4c
 brew icu4c@76
 brew isl
@@ -66,6 +67,7 @@ brew libnghttp2
 brew libnghttp3
 brew libngtcp2
 brew libpng
+brew libpsl
 brew libslirp
 brew libssh
 brew libtasn1
@@ -101,6 +103,7 @@ brew oniguruma
 brew openapi-generator
 brew openjdk
 brew openssl@3
+brew openssl@4
 brew p11-kit
 brew pcre2
 brew peco
@@ -111,6 +114,7 @@ brew pwgen
 brew pycparser
 brew pydantic
 brew python@3.14
+brew python@3.15
 brew qemu
 brew re2
 brew readline
@@ -140,7 +144,6 @@ cask copilot-cli
 cask cursor
 cask devutils
 cask dropbox
-cask github
 cask google-chrome
 cask google-cloud-sdk
 cask iterm2
@@ -168,18 +171,17 @@ brew brew-file
 brew terraform
 
 # App Store applications
-appstore 302584613 Amazon Kindle (7.65)
+appstore 302584613 Amazon Kindle (7.69)
 appstore 1352778147 Bitwarden (2026.8.0)
-appstore 640199958 Developer (11.0.2)
+appstore 640199958 Developer (11.1)
 appstore 682658836 GarageBand (10.4.14)
-appstore 408981434 iMovie (10.4.4)
+appstore 408981434 iMovie (10.4.5)
+appstore 361285480 Keynote Creator Studio (15.4)
 appstore 409183694 Keynote (14.5)
-appstore 361285480 Keynote Creator Studio (15.3.1)
 appstore 1559269364 Notion Web Clipper (1.0.3)
 appstore 409203825 Numbers (14.5)
 appstore 409201541 Pages (14.5)
-appstore 1444636541 Photomator (3.4.15)
 appstore 1289583905 Pixelmator Pro (3.8)
-appstore 1668083311 Whisper Transcription (14.8)
-appstore 497799835 Xcode (26.6)
+appstore 1668083311 Whisper Transcription (15.6)
+appstore 497799835 Xcode (27.1)
 appstore 457622435 Yoink (3.7.6)
