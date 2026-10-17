@@ -142,7 +142,6 @@ cask appcleaner
 cask bartender
 cask copilot-cli
 cask cursor
-cask devutils
 cask dropbox
 cask google-chrome
 cask google-cloud-sdk
@@ -180,6 +179,5 @@ appstore 1559269364 Notion Web Clipper (1.0.3)
 appstore 409203825 Numbers (14.5)
 appstore 409201541 Pages (14.5)
 appstore 1289583905 Pixelmator Pro (3.8)
-appstore 1668083311 Whisper Transcription (15.6)
 appstore 497799835 Xcode (27.1)
 appstore 457622435 Yoink (3.7.6)
